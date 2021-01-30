@@ -1,5 +1,4 @@
-# portfolio
-Data Analysis Portfolio with Python
+# Data Analysis Portfolio with Python
 
 ## Business Insights from advertisement data
   * [Analysis source code](https://nbviewer.jupyter.org/github/vampard/portfolio/blob/master/Business%20Insights%20from%20advertisement%20data/high%20efficient%20keywords%20and%20ad%20groups%20from%20advertisement%20data.ipynb)
