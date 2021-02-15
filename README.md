@@ -42,3 +42,14 @@
     - Q. Which country has caused the most confirmed cases?
     - Q. What month has the most imported cases from overseas?
     - Q. Which district has the most imported cases from overseas?
+
+## Open Source Insights from 8 Years Report Data
+  * [overview](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/Open%20Source%20Insights%20from%208%20Years%20Report%20Data.docx) <- you can download and have a look at it
+  * [work sample for webinar](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/for_webinar.pdf) <- you can download and have a look at it
+  * Applied skills:
+    * Collecting: Python(pandas, numpy, tqdm, os, shutil
+    * Pre-processing: Python(pandas, numpy, matplotlib)
+    * Aanlysis and Visualisation: Taebleau
+  * A wide range of insights for questions below
+    * How many open sources domestic companies have used? 
+    * What kind of open sources and licenses are used in domestic companies the most?
