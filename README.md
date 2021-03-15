@@ -1,5 +1,19 @@
 # Data Analysis Portfolio with Python
 
+## Open Source Insights from 8 Years Report Data
+  * [Overview](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/Open%20Source%20Insights%20from%208%20Years%20Report%20Data.docx) <- you can download and have a look at it
+  * [work sample for webinar](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/for_webinar.pdf) <- you can download and have a look at it
+  * [webinar on youtube](https://youtu.be/yNqf4prPTVc) <- you can download and have a look at it
+  * [press release sample](https://www.dailysecu.com/news/articleView.html?idxno=121638) <- you can download and have a look at it
+  * Applied skills:
+    * Collecting: Python(pandas, numpy, tqdm, os, shutil
+    * Pre-processing: Python(pandas, numpy, matplotlib)
+    * Analysis and Visualisation: Taebleau
+  * A wide range of insights for questions below
+    * How many open sources domestic companies have used?
+    * What kind of open sources and licenses are used in domestic companies the most?
+
+
 ## Business Insights from advertisement data
   * [Analysis source code](https://nbviewer.jupyter.org/github/vampard/portfolio/blob/master/Business%20Insights%20from%20advertisement%20data/high%20efficient%20keywords%20and%20ad%20groups%20from%20advertisement%20data.ipynb)
   * Applied skills: pandas, matplotlip, seaborn, wordcloud
@@ -43,13 +57,3 @@
     - Q. What month has the most imported cases from overseas?
     - Q. Which district has the most imported cases from overseas?
 
-## Open Source Insights from 8 Years Report Data
-  * [Overview](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/Open%20Source%20Insights%20from%208%20Years%20Report%20Data.docx) <- you can download and have a look at it
-  * [work sample for webinar](https://github.com/vampard/portfolio/raw/master/Open%20Source%20Insights%20from%208%20Years%20Report%20Data/for_webinar.pdf) <- you can download and have a look at it
-  * Applied skills:
-    * Collecting: Python(pandas, numpy, tqdm, os, shutil
-    * Pre-processing: Python(pandas, numpy, matplotlib)
-    * Analysis and Visualisation: Taebleau
-  * A wide range of insights for questions below
-    * How many open sources domestic companies have used? 
-    * What kind of open sources and licenses are used in domestic companies the most?
